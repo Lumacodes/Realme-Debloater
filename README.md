@@ -1,4 +1,4 @@
-# realme-debloater
+# Realme Debloater
 
 A simple command-line tool for checking and carefully removing unwanted preinstalled apps from Realme phones.
 
